@@ -1,5 +1,15 @@
 ### 14/1/2022
 
+-
+- File: testCalculateSummary.test.ts
+- 1: Dau tien la start date va end date
+- 2: filter bao gom: start date, end date, month, year, myear
+- 3: queue (hàng đợi): la 1 object co kieu du lieu la BeeQueue
+- 4: batch async (ko đồng bộ hàng loạt):
+- 5: select("\_id code accountDate"): Chỉ định các trường tài liệu sẽ bao gồm hoặc loại trừ (còn được gọi là truy vấn "phép chiếu")
+- 6: cursor(): để lấy dữ liệu theo kiểu phân trang, mỗi lần lấy 1 record (https://www.geeksforgeeks.org/how-does-query-prototype-cursor-work-in-mongoose/)
+-
+- Test tu thang 1 -> 12
 - Chay script tính dữ liệu tháng trong file testCalculateSummary.test.ts
 - Co gang hoan thanh 2 task fix bug aum trong hom nay - Done
 
