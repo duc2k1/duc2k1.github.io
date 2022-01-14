@@ -1,15 +1,13 @@
-# ducdapda.github.io
-
-## 14/1/2022
+### 14/1/2022
 
 - Chay script tính dữ liệu tháng trong file testCalculateSummary.test.ts
 - Co gang hoan thanh 2 task fix bug aum trong hom nay - Done
 
-## 13/1/2022
+### 13/1/2022
 
 - Hoc graphql - Done
 
-## 12/1/2022
+### 12/1/2022
 
 - Member code: MB100000026
   -- Vòng quay tài sản =
@@ -31,7 +29,7 @@
 - Tiep tuc fix bug aum
 - Xin chu ky va dau moc cho thang lon Long - De khi khac lam
 
-## 11/1/2022
+### 11/1/2022
 
 - Dit cu mày thang lon, nhin cc
 - Find list of all products sold
@@ -49,11 +47,11 @@
 {product: "milk", total: 11.33, customer: "Mike"},
 ]
 
-## 6/1/2022
+### 6/1/2022
 
 - Install android studio: https://vitux.com/how-to-install-android-studio-on-ubuntu-20-04/
 
-## 5/1/2022
+### 5/1/2022
 
 - Tim dc cong viec thong qua fb :https://www.facebook.com/groups/224105692857136/posts/347369943864043/?comment_id=360896765844694&reply_comment_id=360903432510694&notif_id=1641302255425104&ref=notif&notif_t=group_comment_mention
 - Pass pv cty MCOM vs muc luong 7tr, 2 thang dau thu viec 85%
