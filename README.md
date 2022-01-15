@@ -1,3 +1,12 @@
+### 15/1/2022
+
+- Di photo va ghi don xin viec va so yeu ly lich(can co cong chung) -DOing
+- Bang cap dang co - DOne
+- CHung minh nhan dan - Done
+- So ho khau / So tam tru - Done
+- Giay kham suc khoe - Done
+- Anh 3x4 - Done
+
 ### 14/1/2022
 
 -
