@@ -1,6 +1,8 @@
 ### 17/1/2022
 
 - Hôm nay ngồi chơi, chả làm cái mẹ gì cả
+- Tiep tuc viet bao cao va nhat ky thuc tap doanh nghiep - Doing
+- Mcom: admin - ZTEGCE55DEDC
 
 ### 16/1/2022
 
