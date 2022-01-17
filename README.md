@@ -1,6 +1,14 @@
+### 17/1/2022
+
+- Hôm nay ngồi chơi, chả làm cái mẹ gì cả
+
+### 16/1/2022
+
+- Cong chung so yeu ly lich - Doing
+
 ### 15/1/2022
 
-- Di photo va ghi don xin viec va so yeu ly lich(can co cong chung) -DOing
+- Di photo va ghi don xin viec va so yeu ly lich(can co cong chung) -DOing-Mai lam
 - Bang cap dang co - DOne
 - CHung minh nhan dan - Done
 - So ho khau / So tam tru - Done
