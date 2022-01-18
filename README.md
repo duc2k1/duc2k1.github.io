@@ -1,3 +1,8 @@
+### 18/1/2022
+
+- Viet bao cao thuc tap doanh nghiep -DOing
+- Ve so do he thong backend smart royalty -Doing
+
 ### 17/1/2022
 
 - Hôm nay ngồi chơi, chả làm cái mẹ gì cả
