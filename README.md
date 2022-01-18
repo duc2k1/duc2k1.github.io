@@ -1,7 +1,22 @@
 ### 18/1/2022
 
+- ROBO MONGO connect to url database -> on TLS tab:
+
+-- Check Use TLS protocol
+-- Authentication method - Self-signed Certificate
+
 - Viet bao cao thuc tap doanh nghiep -DOing
 - Ve so do he thong backend smart royalty -Doing
+- graphql
+  -- modules
+  -- context.ts
+  -- helper.ts
+  --- ../helpers/redis.ts
+  -- index.ts
+  --- ../configs.ts
+  --- ./context.ts
+  --- ../loaders/logger.ts
+  --- ../helpers/common.ts
 
 ### 17/1/2022
 
