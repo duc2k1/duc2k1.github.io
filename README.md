@@ -1,10 +1,13 @@
+### 19/1/2022
+
+- Học MONGODB (https://www.youtube.com/watch?v=udwFO6f7Vyo&list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1&index=21)
+
 ### 18/1/2022
 
+- ## Ve so do exportMemberBySegment.route
 - ROBO MONGO connect to url database -> on TLS tab:
-
--- Check Use TLS protocol
--- Authentication method - Self-signed Certificate
-
+  -- Check Use TLS protocol
+  -- Authentication method - Self-signed Certificate
 - Viet bao cao thuc tap doanh nghiep -DOing
 - Ve so do he thong backend smart royalty -Doing
 - graphql
