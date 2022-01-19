@@ -2,14 +2,15 @@
 
 - Học MONGODB (https://www.youtube.com/watch?v=udwFO6f7Vyo&list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1&index=21)
 
-                sort({index:-1}) -> skip(10) -> limit(10)  
-.find({})   
-                count()           
-        
+- sort({index:-1}) -> skip(10) -> limit(10)
+- .find({})
+- count()
+
 - batchSize(100) - lay hang theo kích thước lô
+
 ### 18/1/2022
 
-- ## Ve so do exportMemberBySegment.route
+- Ve so do exportMemberBySegment.route
 - ROBO MONGO connect to url database -> on TLS tab:
   -- Check Use TLS protocol
   -- Authentication method - Self-signed Certificate
@@ -95,14 +96,19 @@
   ]
   )
 
--- db.purchase_orders.distinct("product")
--- db.purchase_orders.count({product: "toothbrush"})
--- db.purchase_orders.insertMany(
+```javascript
+  db.purchase_orders.distinct("product")
+  db.purchase_orders.count({product: "toothbrush"})
+  db.purchase_orders.insertMany()
+```
+
+```javascript
 [
-{product: "toothbrush", total: 4.75, customer: "Mike"},
-{product: "guitar", total: 199.99, customer: "Tom"},
-{product: "milk", total: 11.33, customer: "Mike"},
+  { product: "toothbrush", total: 4.75, customer: "Mike" },
+  { product: "guitar", total: 199.99, customer: "Tom" },
+  { product: "milk", total: 11.33, customer: "Mike" },
 ]
+```
 
 ### 6/1/2022
 
@@ -110,5 +116,5 @@
 
 ### 5/1/2022
 
-- Tim dc cong viec thong qua fb :https://www.facebook.com/groups/224105692857136/posts/347369943864043/?comment_id=360896765844694&reply_comment_id=360903432510694&notif_id=1641302255425104&ref=notif&notif_t=group_comment_mention
+- Tim dc cong viec thong qua fb https://www.facebook.com/groups/224105692857136/posts/347369943864043/?comment_id=360896765844694&reply_comment_id=360903432510694&notif_id=1641302255425104&ref=notif&notif_t=group_comment_mention
 - Pass pv cty MCOM vs muc luong 7tr, 2 thang dau thu viec 85%
