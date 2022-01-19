@@ -1,7 +1,12 @@
 ### 19/1/2022
 
 - Học MONGODB (https://www.youtube.com/watch?v=udwFO6f7Vyo&list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1&index=21)
-
+             ____________________________________________
+             |    sort({index:-1}) -> skip(10) -> limit(10)  
+.find({})    |-------------------------------------------
+             |       count()           
+             --------------------------------------------
+- batchSize(100) - lay hang theo kích thước lô
 ### 18/1/2022
 
 - ## Ve so do exportMemberBySegment.route
