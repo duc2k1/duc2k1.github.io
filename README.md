@@ -1,3 +1,8 @@
+### 20/1/2022
+
+- Buy pc with CPU AMD 5700g, 32g RAM DDR4 Gskill, 500G SSD Samsung 970 EVO Plus, PSU 550W Corsair, Case Golden Field, Mainboard B550 Aorus -> Done
+- Tiep tuc lam task export file excel -> Doing
+
 ### 19/1/2022
 
 - Học MONGODB (https://www.youtube.com/watch?v=udwFO6f7Vyo&list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1&index=21)
@@ -97,9 +102,9 @@
   )
 
 ```javascript
-  db.purchase_orders.distinct("product")
-  db.purchase_orders.count({product: "toothbrush"})
-  db.purchase_orders.insertMany()
+db.purchase_orders.distinct("product");
+db.purchase_orders.count({ product: "toothbrush" });
+db.purchase_orders.insertMany();
 ```
 
 ```javascript
@@ -107,7 +112,7 @@
   { product: "toothbrush", total: 4.75, customer: "Mike" },
   { product: "guitar", total: 199.99, customer: "Tom" },
   { product: "milk", total: 11.33, customer: "Mike" },
-]
+];
 ```
 
 ### 6/1/2022
