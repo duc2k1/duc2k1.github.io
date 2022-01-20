@@ -97,9 +97,9 @@
   )
 
 ```javascript
-  db.purchase_orders.distinct("product")
-  db.purchase_orders.count({product: "toothbrush"})
-  db.purchase_orders.insertMany()
+db.purchase_orders.distinct("product");
+db.purchase_orders.count({ product: "toothbrush" });
+db.purchase_orders.insertMany();
 ```
 
 ```javascript
@@ -107,7 +107,7 @@
   { product: "toothbrush", total: 4.75, customer: "Mike" },
   { product: "guitar", total: 199.99, customer: "Tom" },
   { product: "milk", total: 11.33, customer: "Mike" },
-]
+];
 ```
 
 ### 6/1/2022
