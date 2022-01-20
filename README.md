@@ -5,6 +5,7 @@
 
 ### 19/1/2022
 
+- Tiếp tục làm task của mình
 - Học MONGODB (https://www.youtube.com/watch?v=udwFO6f7Vyo&list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1&index=21)
 
 - sort({index:-1}) -> skip(10) -> limit(10)
