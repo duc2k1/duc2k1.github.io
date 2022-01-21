@@ -1,6 +1,9 @@
 ### 21/1/2022
 
+- Source code: smart loyalty SHB
 - [Backend] Bổ sung fiedd posId cho model member - Done
+- [Backend] Bổ sung fiedd posId cho model user - Done
+- [Backend] Bổ sung fiedd posId cho model activity - Done
 
 ### 20/1/2022
 
