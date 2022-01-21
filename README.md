@@ -1,3 +1,7 @@
+### 21/1/2022
+
+- [Backend] Bổ sung fiedd posId cho model member - Done
+
 ### 20/1/2022
 
 - Buy pc with CPU AMD 5700g, 32g RAM DDR4 Gskill, 500G SSD Samsung 970 EVO Plus, PSU 550W Corsair, Case Golden Field, Mainboard B550 Aorus -> Done
