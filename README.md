@@ -1,5 +1,6 @@
 ### 21/1/2022
 
+- DM cà phê Phố gói uống như loz, uống cà phê Trung Nguyên loại I tỉnh ngủ cả ngày :||||||
 - Source code: smart loyalty SHB
 - [Backend] Bổ sung fiedd posId cho model member - Done
 - [Backend] Bổ sung fiedd posId cho model user - Done
