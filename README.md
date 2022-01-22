@@ -1,3 +1,8 @@
+### 22/1/2022
+
+- Cai win 11 va 1 cai chan 4xxk - Done
+- Ngay dau hoc khoa hoc online nodejs - typescript - graphql- mongodb tai ITHOUSE do anh Duong day
+
 ### 21/1/2022
 
 - DM cà phê Phố gói uống như loz, uống cà phê Trung Nguyên loại I tỉnh ngủ cả ngày :||||||
