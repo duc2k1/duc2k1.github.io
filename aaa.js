@@ -7,3 +7,5 @@ console.log(
     .add(Math.floor(Math.random() * 100), "days")
     .format("YYYY-MM-DD")
 );
+// get date current
+console.log(moment().format("YYYY-MM-DD"));
