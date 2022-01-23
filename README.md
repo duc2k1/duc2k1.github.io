@@ -1,6 +1,10 @@
+### 23/1/2022
+
+- Chuan bi cho ngay mai di lam: Chan, case pc, chuot eblue.
+
 ### 22/1/2022
 
-- Cai win 11 va 1 cai chan 4xxk - Done
+- Cai win 11, mua 1 con chuot eblue, 1 use kignston 32G va 1 cai chan 4xxk - Done
 - Ngay dau hoc khoa hoc online nodejs - typescript - graphql- mongodb tai ITHOUSE do anh Duong day
 
 ### 21/1/2022
