@@ -10,3 +10,5 @@ console.log(
 );
 // get date current
 console.log("date current", moment().format("YYYY-MM-DD"));
+// get month ago
+console.log("month ago", moment().subtract(1, "month").format("YYYY-MM-DD"));
