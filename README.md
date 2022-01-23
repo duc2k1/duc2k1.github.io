@@ -1,6 +1,6 @@
 ### 23/1/2022
 
-- Chuan bi cho ngay mai di lam: Chan, case pc, chuot eblue.
+- Chuan bi cho ngay mai di lam: Chan, case pc, chuot eblue EMS146 PRO.
 
 ### 22/1/2022
 
