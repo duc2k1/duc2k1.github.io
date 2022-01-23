@@ -3,9 +3,10 @@ console.log(moment().fromNow());
 console.log("hello");
 // random  date from now
 console.log(
+  "random date from now",
   moment()
     .add(Math.floor(Math.random() * 100), "days")
     .format("YYYY-MM-DD")
 );
 // get date current
-console.log(moment().format("YYYY-MM-DD"));
+console.log("date current", moment().format("YYYY-MM-DD"));
