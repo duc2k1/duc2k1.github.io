@@ -1,5 +1,17 @@
 const moment = require("moment-timezone");
-const startDate = moment().subtract(11, "months").toDate();
-console.log("🚀 ~ file: aaa.js ~ line 3 ~ startDate", startDate); // 2021-02-24T03:13:13.748Z
-const endDate = moment().startOf("month").toDate(); // 2021-12-31T17:00:00.000Z
-console.log(endDate);
+console.log("🚀 ~ file: aaa.js ~ line 2 ~ moment now", moment().toDate());
+
+const startDate = moment().startOf("month").subtract(12, "months").toDate();
+console.log("🚀 ~ file: aaa.js ~ line 4 ~ startDate", startDate);
+const endDate = moment().endOf("month").toDate();
+console.log("🚀 ~ file: aaa.js ~ line 6 ~ endDate", endDate);
+
+const prevStartDate = moment("2020-12-31T17:00:00.000Z")
+  .subtract(1, "years")
+  .toDate();
+console.log("🚀 ~ file: aaa.js ~ line 3 ~ prevStartDate", prevStartDate);
+
+const prevEndDate = moment("2012-02-29T16:59:59.999Z")
+  .subtract(1, "years")
+  .toDate();
+console.log("🚀 ~ file: aaa.js ~ line 5 ~ prevEndDate", prevEndDate);
