@@ -1,14 +1,5 @@
 const moment = require("moment-timezone");
-console.log(moment().fromNow());
-console.log("hello");
-// random  date from now
-console.log(
-  "random date from now",
-  moment()
-    .add(Math.floor(Math.random() * 100), "days")
-    .format("YYYY-MM-DD")
-);
-// get date current
-console.log("date current", moment().format("YYYY-MM-DD"));
-// get month ago
-console.log("month ago", moment().subtract(1, "month").format("YYYY-MM-DD"));
+const startDate = moment().subtract(11, "months").toDate();
+console.log("🚀 ~ file: aaa.js ~ line 3 ~ startDate", startDate); // 2021-02-24T03:13:13.748Z
+const endDate = moment().startOf("month").toDate(); // 2021-12-31T17:00:00.000Z
+console.log(endDate);

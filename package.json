@@ -1,7 +1,11 @@
 {
+  "scripts": {
+    "start": "nodemon aaa.js"
+  },
   "dependencies": {
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
-    "moment-timezone": "^0.5.34"
+    "moment-timezone": "^0.5.34",
+    "nodemon": "^2.0.15"
   }
 }
