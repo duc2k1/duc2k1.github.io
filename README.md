@@ -1,3 +1,8 @@
+### 24/1/2022
+
+- Làm task được giao
+- [Backend] Gửi email xác thực tài khoản học viên
+
 ### 23/1/2022
 
 - Chuan bi cho ngay mai di lam: Chan, case pc, chuot eblue EMS146 PRO.
