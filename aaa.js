@@ -6,9 +6,7 @@ console.log("🚀 ~ file: aaa.js ~ line 4 ~ startDate", startDate);
 const endDate = moment().endOf("month").toDate();
 console.log("🚀 ~ file: aaa.js ~ line 6 ~ endDate", endDate);
 
-const prevStartDate = moment("2020-12-31T17:00:00.000Z")
-  .subtract(1, "years")
-  .toDate();
+const prevStartDate = moment(startDate).subtract(1, "years").toDate();
 console.log("🚀 ~ file: aaa.js ~ line 3 ~ prevStartDate", prevStartDate);
 
 const prevEndDate = moment("2012-02-29T16:59:59.999Z")
