@@ -1,7 +1,9 @@
 ### 25/1/2022
 
-- [Backend] API Đăng ký tài khoản học viên - Doing
-- [Backend] API xác thực tài khoán học viên qua email - Doing
+- [Backend] Xây dụng model Document cho Tổ chức - Doing
+- [Backend] Cung cấp API thêm student vào lớp học - Doing
+- [Backend] API Đăng ký tài khoản học viên - Done
+- [Backend] API xác thực tài khoán học viên qua email - Done
 
 ### 24/1/2022
 
