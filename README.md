@@ -1,7 +1,7 @@
 ### 25/1/2022
 
-- [Backend] API Đăng ký tài khoản học viên
-- [Backend] API xác thực tài khoán học viên qua email
+- [Backend] API Đăng ký tài khoản học viên - Doing
+- [Backend] API xác thực tài khoán học viên qua email - Doing
 
 ### 24/1/2022
 
