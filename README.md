@@ -1,3 +1,8 @@
+### 25/1/2022
+
+- [Backend] API Đăng ký tài khoản học viên
+- [Backend] API xác thực tài khoán học viên qua email
+
 ### 24/1/2022
 
 - Làm task được giao
