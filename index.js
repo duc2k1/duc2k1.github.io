@@ -1,5 +1,5 @@
 module.exports = {
   getData() {
-    return "hello";
+    return "helloo";
   },
 };

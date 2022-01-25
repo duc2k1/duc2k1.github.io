@@ -1,5 +1,6 @@
 const { getData } = require("../");
 
 test("Example test", () => {
-  console.log(getData());
+  if (getData() == "hello") expect(true).toEqual(true);
+  if (getData() != "hello") expect(false).toEqual(true);
 });
