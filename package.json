@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "start": "nodemon aaa.js"
+    "start": "nodemon aaa.js",
+    "test": "jest"
   },
   "dependencies": {
+    "jest": "^27.4.7",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.34",
