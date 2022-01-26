@@ -1,3 +1,8 @@
+### 26/1/2022
+
+- [Backend] Xây dụng model Document cho Tổ chức - Doing
+- [Backend] Cung cấp API thêm student vào lớp học - Doing
+
 ### 25/1/2022
 
 - [Backend] Xây dụng model Document cho Tổ chức - Doing
