@@ -1,6 +1,10 @@
+### 31/1/2022
+
+- On Android va kiem thu - Doing
+
 ### 26/1/2022
 
-- BB: fbgUkccxQjqXL7B8Mput
+- BitB: fbgUkccxQjqXL7B8Mput
 - [Backend] Xây dụng model Document cho Tổ chức - Doing
 - [Backend] Cung cấp API thêm student vào lớp học - Doing
 
