@@ -1,6 +1,6 @@
 ### 31/1/2022
 
-- On Android va kiem thu - Doing
+- Nuoc 🌊 sot me rang cham rong nho 🍇
 
 ### 26/1/2022
 
