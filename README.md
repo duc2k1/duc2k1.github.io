@@ -7,6 +7,7 @@
 
 - On thi cho mon kiem thu va android - 💪 ⚠️
 - Lam xong bai tap mongodb cua trung tam it house - 💪 ⚠️
+
 - Buy 💸 :
 
 * Xe dap - 💪 🥬
