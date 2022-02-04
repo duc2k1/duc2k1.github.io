@@ -3,7 +3,7 @@
 - Hoan tat va di in ho so, bao cao:
 
 * Don xin viec, so yeu ly lich (MCOM) - Todo 💪
-* Bao cao, nhat ky thuc tap - Todo 💪
+* Bao cao, nhat ky thuc tap doanh nghiep - Todo 💪
 
 - Buy 💸 :
 
