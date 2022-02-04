@@ -2,22 +2,24 @@
 
 - Hoan tat va di in ho so, bao cao:
 
-* Don xin viec, so yeu ly lich (MCOM) - Todo 💪
-* Bao cao, nhat ky thuc tap doanh nghiep - Todo 💪
+* Don xin viec, so yeu ly lich (MCOM) - Todo 💪 🚨
+* Bao cao, nhat ky thuc tap doanh nghiep - Todo 💪 ⚠️
 
+- On thi cho mon kiem thu va android - Todo 💪 ⚠️
+- Lam xong bai tap mongodb cua trung tam it house - Todo 💪 ⚠️
 - Buy 💸 :
 
-* Xe dap - Todo 💪
-* Tui xe dap - Todo 💪
-* Bong den led - Todo 💪
-* Vim - Todo 💪
-* May cat toc - Todo 💪
-* Dau goi X-men - Todo 💪
-* Cay lau nha - Todo 💪
-* Day dat cho - Todo 💪
-* Mu bao hiem - Todo 💪
-* Gong kinh can - Todo 💪
-* May hut bui - Todo 💪
+* Xe dap - Todo 💪 🥬
+* Tui xe dap - Todo 💪 🥬
+* Bong den led - Todo 💪 🥬
+* Vim - Todo 💪 🥬
+* May cat toc - Todo 💪 🥬
+* Dau goi X-men - Todo 💪 🥬
+* Cay lau nha - Todo 💪 🥬
+* Day dat cho - Todo 💪 🥬
+* Mu bao hiem - Todo 💪 🥬
+* Gong kinh can - Todo 💪 🥬
+* May hut bui - Todo 💪 🥬
 
 ### 31/1/2022
 
