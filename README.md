@@ -23,7 +23,7 @@
 
 ### 31/1/2022
 
-- Nuoc 🌊 sot me rang cham rong nho 🍇
+- Nuoc 🌊 sot me rang cham rong nho 🍇 an nhu lon 😠
 
 ### 26/1/2022
 
