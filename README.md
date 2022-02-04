@@ -1,3 +1,19 @@
+### 4/2/2022
+
+- Buy 💸 :
+
+* Xe dap - To do
+* Tui xe dap - To do
+* Bong den led - To do
+* Vim - To do
+* May cat toc - To do
+* Dau goi X-men - To do
+* Cay lau nha - To do
+* Day dat cho - To do
+* Mu bao hiem - To do
+* Gong kinh can - To do
+* May hut bui - To do
+
 ### 31/1/2022
 
 - Nuoc 🌊 sot me rang cham rong nho 🍇
