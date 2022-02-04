@@ -1,18 +1,23 @@
 ### 4/2/2022
 
+- Hoan tat va di in ho so, bao cao:
+
+* Don xin viec, so yeu ly lich (MCOM) - Todo 💪
+* Bao cao, nhat ky thuc tap - Todo 💪
+
 - Buy 💸 :
 
-* Xe dap - To do
-* Tui xe dap - To do
-* Bong den led - To do
-* Vim - To do
-* May cat toc - To do
-* Dau goi X-men - To do
-* Cay lau nha - To do
-* Day dat cho - To do
-* Mu bao hiem - To do
-* Gong kinh can - To do
-* May hut bui - To do
+* Xe dap - Todo 💪
+* Tui xe dap - Todo 💪
+* Bong den led - Todo 💪
+* Vim - Todo 💪
+* May cat toc - Todo 💪
+* Dau goi X-men - Todo 💪
+* Cay lau nha - Todo 💪
+* Day dat cho - Todo 💪
+* Mu bao hiem - Todo 💪
+* Gong kinh can - Todo 💪
+* May hut bui - Todo 💪
 
 ### 31/1/2022
 
