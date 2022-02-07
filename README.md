@@ -3,7 +3,7 @@
 - Cong chung so yeu ly lich - 💪 🥬
 - Rut tien thuong MB Bank - 💪 🥬
 
-- [Backend] Cung cấp API comment và đánh giá buổi học - 🏃 ⚠️
+- [Backend] Cung cấp API comment và đánh giá buổi học - 🏃 ⚠️ 50%
 
 - Hoan tat va di in ho so, bao cao:
 
