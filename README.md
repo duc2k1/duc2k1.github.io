@@ -1,3 +1,29 @@
+### 7/2/2022
+
+- [Backend] Cung cấp API comment và đánh giá buổi học - 🏃 ⚠️
+
+- Hoan tat va di in ho so, bao cao:
+
+* Don xin viec, so yeu ly lich (MCOM) - 💪 🚨
+* Bao cao, nhat ky thuc tap doanh nghiep - 💪 ⚠️
+
+- On thi cho mon kiem thu va android - 💪 ⚠️
+- Lam xong bai tap mongodb cua trung tam it house - 💪 ⚠️
+
+- Buy 💸 :
+
+* Xe dap - 💪 🥬
+* Tui xe dap - 💪 🥬
+* Bong den led - ✅
+* Vim - ✅
+* May cat toc - 💪 🥬
+* Dau goi X-men - 💪 🥬
+* Cay lau nha - ✅
+* Day dat cho - 💪 🥬
+* Mu bao hiem - 💪 🥬
+* Gong kinh can - 💪 🥬
+* May hut bui - 💪 🥬
+
 ### 4/2/2022
 
 - Hoan tat va di in ho so, bao cao:
