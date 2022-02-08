@@ -1,5 +1,6 @@
 ### 8/2/2022
 
+- [Backend] API cho phép người dùng xem danh sách khoá học - 💪 🥬
 - [Backend] Cung cấp API comment và đánh giá buổi học - ✅
 
 ### 7/2/2022
