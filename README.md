@@ -1,7 +1,6 @@
 ### 8/2/2022
 
-- [Backend] Cung cấp API comment và đánh giá buổi học - 🏃 ⚠️
-- Rut tien thuong ki thi lap trinh web - MB Bank - 💪 🥬
+- [Backend] Cung cấp API comment và đánh giá buổi học - ✅
 
 ### 7/2/2022
 
