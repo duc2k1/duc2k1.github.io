@@ -1,3 +1,7 @@
+### 9/2/2022
+
+- [Backend] API cho phép người dùng xem danh sách khoá học - ✅
+
 ### 8/2/2022
 
 - [Backend] API cho phép người dùng xem danh sách khoá học - 💪 🥬
