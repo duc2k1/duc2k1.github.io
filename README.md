@@ -1,6 +1,19 @@
 ### 10/2/2022
 
 - [Backend] API Order 🏃 ⚠️ 50%
+  buyerId?: string; // Id cua nguoi mua
+  buyerName?: string; // Ten cua nguoi mua
+  organId?: string; // Id cua don vi
+  organName?: string; // Ten cua don vi
+  subTotal?: number; // Tong tien
+  discount?: number; // Giam gia
+  amount?: number; // Tong tien phai thanh toan (da bao gom giam gia)
+  orderDetails?: Array<IOrderDetail>; // Chi tiet don hang
+  orderPayment?: IOrderPayment; // Thanh toan
+  status?: Status; // Trang thai
+  inviterId?: string; // Id cua nguoi moi (user)
+  inviterCommission?: number; // Hoa hong cua nguoi moi (user)
+  rewardPoint?: number; // Diem thuong
 
 ### 9/2/2022
 
