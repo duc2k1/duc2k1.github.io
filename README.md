@@ -1,3 +1,10 @@
+### 11/2/2022
+
+- 💪 🥬 Config IP VPS for modem Viettel
+- 💪 🥬 Use printer to print manga, hentai,...
+- 🏃 ⚠️ 60% Continue task [Backend] API Order
+- 📌 Zorin OS is better than Linux Mint
+
 ### 10/2/2022
 
 - [Backend] API Order 🏃 ⚠️ 50%
