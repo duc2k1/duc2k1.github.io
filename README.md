@@ -1,5 +1,15 @@
 ### 11/2/2022
 
+- context Context {
+  meta: {},
+  isAuth: true,
+  isTokenExpired: false,
+  token: Token {
+  \_id: '61f110cdb05de61bb48545eb',
+  role: 'STUDENT',
+  payload: { username: 'Student', iat: 1644564894, exp: 1647156894 },
+  expiresIn: '30d'
+  }
 - 💪 🥬 Config IP VPS for modem Viettel
 - 💪 🥬 Use printer to print manga, hentai,...
 - 🏃 ⚠️ 60% Continue task [Backend] API Order
