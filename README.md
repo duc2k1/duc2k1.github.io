@@ -1,5 +1,6 @@
 ### 11/2/2022
 
+- 📌 const order = await orderService.findOne({ \_id: id }); -> order.organId is Object ⚠️
 - context Context {
   meta: {},
   isAuth: true,
