@@ -1,3 +1,11 @@
+### 12/2/2022
+
+- nodejs - global, local
+- mongo
+- single node
+- replicate set - primary node , secondary node
+- sharding
+
 ### 11/2/2022
 
 - 📌 const order = await orderService.findOne({ \_id: id }); -> order.organId is Object ⚠️
