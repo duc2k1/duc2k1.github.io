@@ -1,3 +1,8 @@
+### 14/2/2022
+
+- Install windows 11
+- Continue do task Quy trình mua khoá học dành cho học viên
+
 ### 12/2/2022
 
 - nodejs - global, local
