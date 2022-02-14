@@ -1,6 +1,6 @@
 ### 14/2/2022
 
-- 🖥️ Install windows 11 - Doing
+- 🖥️ Install windows 11 - Doing -> Cancled (Reinstall Zorin OS)
 - 🏃 ⚠️ Continue do task Quy trình mua khoá học dành cho học viên - 3/20
 
 ### 12/2/2022
