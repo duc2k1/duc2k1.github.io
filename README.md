@@ -1,3 +1,7 @@
+### 15/2/2022
+
+- [Backend] Số lượng học viên của lớp học - Doing
+
 ### 14/2/2022
 
 - 🖥️ Install windows 11 - Doing -> Cancled (Reinstall Zorin OS)
