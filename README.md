@@ -1,5 +1,6 @@
 ### 15/2/2022
 
+- 📌 To install tsc.1️⃣ First install typescript.2️⃣ Then run `yarn global add tsc`.
 - [Backend] Số lượng học viên của lớp học - Doing
 
 ### 14/2/2022
