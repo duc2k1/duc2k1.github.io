@@ -1,5 +1,6 @@
 ### 16/2/2022
 
+- 📌 resetUserPassword.graphql.ts - doc-sach-nhanh
 - 😐 Nothing
 
 ### 15/2/2022
