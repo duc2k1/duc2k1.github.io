@@ -1,3 +1,7 @@
+### 16/2/2022
+
+- 😐 Nothing
+
 ### 15/2/2022
 
 - 📌 To install tsc.1️⃣ First install typescript.2️⃣ Then run `yarn global add tsc`.
