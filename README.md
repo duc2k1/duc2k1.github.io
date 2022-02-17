@@ -1,3 +1,7 @@
+### 17/2/2022
+
+- 🧑‍🤝‍🧑 Thêm 1 ô tên Nguyễn Văn Lý vào ở ghép trọ a Thạch
+
 ### 16/2/2022
 
 - 📌 resetUserPassword.graphql.ts - doc-sach-nhanh
