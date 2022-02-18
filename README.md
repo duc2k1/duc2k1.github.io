@@ -1,3 +1,7 @@
+### 18/2/2022
+
+- ✍️ [Backend] Khóa học - Chưa có API star number, lượt xem, Chổ còn trống, thông tin khóa học, timeline của lớp học, khóa học liên quan, cảm nhận từ học viên - Doing
+
 ### 17/2/2022
 
 - 🧑‍🤝‍🧑 Thêm 1 ô tên Nguyễn Văn Lý vào ở ghép trọ a Thạch
