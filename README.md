@@ -1,6 +1,6 @@
 ### 18/2/2022
 
-- ✍️ [Backend] Khóa học - Chưa có API star number, lượt xem, Chổ còn trống, thông tin khóa học, timeline của lớp học, khóa học liên quan, cảm nhận từ học viên - Doing
+- ✍️ [Backend] Khóa học - Chưa có API star number, lượt xem, Chổ còn trống, thông tin khóa học, timeline của lớp học, khóa học liên quan, cảm nhận từ học viên - 90% (chua co timeline)
 
 ### 17/2/2022
 
