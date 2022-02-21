@@ -1,3 +1,7 @@
+### 21/2/2022
+
+- ✅ Rut tien thuong ky thi web tai Dong A Bank - Done
+
 ### 20/2/2022
 
 - 💪 Rut tien thuong ky thi web tai Dong A Bank - TODO
