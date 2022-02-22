@@ -1,6 +1,6 @@
 ### 22/2/2022
 
-- ...
+- 📌 const token = new Token("id", "role");// ,"payload", "expiresIn"
 
 ### 21/2/2022
 
