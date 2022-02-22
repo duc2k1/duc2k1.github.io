@@ -1,5 +1,6 @@
 ### 22/2/2022
 
+- 📌 model.find({ \_id: { $in: ids } })
 - 📌 const token = new Token("id", "role");// ,"payload", "expiresIn"
 
 ### 21/2/2022
