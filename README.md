@@ -1,6 +1,11 @@
+### 22/2/2022
+
+- ...
+
 ### 21/2/2022
 
 - ✅ Rut tien thuong ky thi web tai Dong A Bank - Done - 176k
+- ✅ Mua xe dap - Done - 1tr7
 
 ### 20/2/2022
 
