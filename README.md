@@ -1,6 +1,7 @@
 ### 23/2/2022
 
--
+- 🔗 https://docsachnhanh.mcom.app/graphql
+- organizationalStatistics
 
 ### 🎉 22/2/2022
 
