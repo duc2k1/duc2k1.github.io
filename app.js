@@ -6,3 +6,5 @@ try {
   console.log(err);
 }
 console.log(error);
+export default "hrllo";
+export const name = "hello";
