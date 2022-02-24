@@ -2,6 +2,7 @@
 
 ```json
 {
+  {
   "editor.inlineSuggest.enabled": true,
   "explorer.confirmDragAndDrop": false,
   "terminal.integrated.fontFamily": "Fira Code",
@@ -18,8 +19,11 @@
   "workbench.iconTheme": "material-icon-theme",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "workbench.colorTheme": "Andromeda Colorizer",
-  "typescript.referencesCodeLens.enabled": true
+  "javascript.referencesCodeLens.enabled": true,
+  "typescript.referencesCodeLens.enabled": true,
+  "workbench.colorTheme": "Andromeda Colorizer"
+}
+
 }
 ```
 

@@ -25,3 +25,4 @@ console.log("🚀 ~ result7", result7);
 // delete first letter
 const result8 = _.drop(string, 1);
 console.log("🚀 ~ result8", result8);
+export default "aas";
