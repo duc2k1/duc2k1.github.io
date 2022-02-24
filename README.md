@@ -18,10 +18,7 @@
   "workbench.iconTheme": "material-icon-theme",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "workbench.colorTheme": "Andromeda Colorizer",
-  "editor.quickSuggestions": false,
-  "editor.suggestOnTriggerCharacters": false,
-  "editor.parameterHints.enabled": false
+  "workbench.colorTheme": "Andromeda Colorizer"
 }
 ```
 
