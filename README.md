@@ -36,7 +36,12 @@
   "editor.renderLineHighlight": "none",
   "editor.lineNumbers": "off",
   "breadcrumbs.enabled": false,
-  "editor.guides.indentation": false
+  "editor.guides.indentation": false,
+  "turboConsoleLog.logMessagePrefix": "👌",
+  "editor.renderWhitespace": "none",
+  "editor.minimap.enabled": false,
+  "editor.renderControlCharacters": false,
+  "editor.suggestSelection": "recentlyUsed"
 }
 ```
 
