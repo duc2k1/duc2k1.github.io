@@ -1,5 +1,21 @@
 ### 28/2/2022
 
+```js
+.sort({ _id: -1 });
+```
+
+```js
+db.persons.createIndex({ name: 1 }, { unique: true });
+db.persons.createIndex({ age:1 });
+{
+  "createdCollectionAutomatically" : false,
+  "numIndexesBefore" : 1,
+  "numIndexesAfter" : 2,
+  "ok" : 1
+}
+db.getCollection('persons').getIndexes();
+```
+
 ```json
 {
   "q": {
