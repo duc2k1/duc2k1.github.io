@@ -1,5 +1,7 @@
 ### 28/2/2022
 
+- 📌 To cache data, use file "cache" in folder helper
+
 ```js
 .sort({ _id: -1 });
 ```
