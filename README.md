@@ -1,5 +1,9 @@
 ### 3/3/2022
 
+- 📌 (node:8875) UnhandledPromiseRejectionWarning: OverwriteModelError: Cannot overwrite `ClassroomSessionn` model once compiled.
+  -> Xóa folder dist và chạy lại lệnh `yarn watch-ts`
+- 📌 [error] Start Frontend Error Could not find a production build in the '/home/duc/doc-sach-nhanh/next/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+  -> Do config NEXT_DEV_MODE trong file .env là false nên ko server ko build next -> ko phải error -> nếu cần front end thì config thành true
 - 📌 post: context.auth(ROLES.ALL)
 
 ### 2/3/2022
