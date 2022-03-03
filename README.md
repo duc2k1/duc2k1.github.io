@@ -1,3 +1,7 @@
+### 3/3/2022
+
+- post: context.auth(ROLES.ALL)
+
 ### 2/3/2022
 
 - 🏘️ Bắt đầu làm việc tại nhà
