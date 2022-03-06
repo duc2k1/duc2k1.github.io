@@ -1,5 +1,8 @@
 ### 6/3/2022
 
+- http://192.168.1.41/ - a Thach
+- 89.187.163.178 - a Thach
+
 ```json
 {
   "editor.inlineSuggest.enabled": true,
