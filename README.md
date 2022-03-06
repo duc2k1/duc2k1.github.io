@@ -1,3 +1,43 @@
+### 6/3/2022
+
+```json
+{
+  "editor.inlineSuggest.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.fontFamily": "Fira Code",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "git.enableSmartCommit": true,
+  "turboConsoleLog.includeFileNameAndLineNum": false,
+  "turboConsoleLog.insertEnclosingClass": false,
+  "turboConsoleLog.insertEnclosingFunction": false,
+  "turboConsoleLog.delimiterInsideMessage": "",
+  "workbench.iconTheme": "material-icon-theme",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.referencesCodeLens.enabled": true,
+  "typescript.referencesCodeLens.enabled": true,
+  "workbench.colorTheme": "Andromeda Colorizer",
+  "editor.renderLineHighlight": "none",
+  "breadcrumbs.enabled": false,
+  "editor.guides.indentation": false,
+  "turboConsoleLog.logMessagePrefix": "👌",
+  "editor.renderWhitespace": "none",
+  "editor.minimap.enabled": false,
+  "editor.renderControlCharacters": false,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": true
+  },
+  "editor.suggestSelection": "recentlyUsed"
+}
+```
+
 ### 4/3/2022
 
 - 🎂 Birthday
