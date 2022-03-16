@@ -1,3 +1,11 @@
+### 16/3/2022
+
+```js
+const promotion = {};
+console.log(promotion.limit); // undefined
+console.log(promotion.limit.abccc); // TypeError: Cannot read property 'abccc' of undefined
+```
+
 ### 10/3/2022
 
 - Bị thủy đậu
