@@ -7,6 +7,10 @@ console.log(promotion.limit.abccc); // TypeError: Cannot read property 'abccc' o
 console.log(promotion.limit?.abccc); // undefined
 ```
 
+### 15/3/2022
+
+- Bị viêm họng và sổ mũi do uống nhiều nước đá
+
 ### 10/3/2022
 
 - Bị thủy đậu
