@@ -4,6 +4,7 @@
 const promotion = {};
 console.log(promotion.limit); // undefined
 console.log(promotion.limit.abccc); // TypeError: Cannot read property 'abccc' of undefined
+console.log(promotion.limit?.abccc); // undefined
 ```
 
 ### 10/3/2022
