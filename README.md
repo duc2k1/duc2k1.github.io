@@ -1,5 +1,17 @@
 ### 18/3/2022
 
+```js
+ return await ProductModel.aggregate([
+      { $match: { productTagIds: { $in: ids } } },
+      { $unwind: "$productTagIds" },
+      { $group: { _id: "$productTagIds", count: { $sum: 1 } } },
+    ]).then((res) => {
+      console.log("👌 ~ res", res);
+      const keyByIds = _.keyBy(res, "_id");
+      return ids.map((id) => _.get(keyByIds, `${id}.count`, 0)) as number[];
+    });
+```
+
 - Career Path: con duong su nghiep 🌄
 
 ```js
