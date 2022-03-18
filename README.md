@@ -1,5 +1,9 @@
 ### 18/3/2022
 
+```js
+import { Types } from "mongoose";
+```
+
 - ✖️ Multiplication: phép nhân
 - 🔢 Numberic: số học, thuộc về số học
 - 🌇 Opreation: phép toán, thao tác
@@ -8,6 +12,10 @@
 - 🏃 Process: xử lý
 - 🔌 Processor: bộ xử lý
 - Pulse: xung, xung điện
+- ⚡️ Register: thanh ghi, đăng ký
+- Signal: dấu, dấu hiệu, tín hiệu 💡
+- Solution: giải pháp, phương án 💡
+- Store: lưu trữ, lưu trữ dữ liệu 💻
 
 ### 16/3/2022
 
