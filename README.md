@@ -1,7 +1,13 @@
 ### 18/3/2022
 
+- Career Path: con duong su nghiep 🌄
+
 ```js
 import { Types } from "mongoose";
+productCount: async (root: any, args: any, context: Context) => {
+  return await ProductCountLoader.load(root._id.toString());
+  // ⚠️ typeof root._id is object
+};
 ```
 
 - ✖️ Multiplication: phép nhân
