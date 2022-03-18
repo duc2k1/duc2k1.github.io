@@ -1,3 +1,14 @@
+### 18/3/2022
+
+- ✖️ Multiplication: phép nhân
+- 🔢 Numberic: số học, thuộc về số học
+- 🌇 Opreation: phép toán, thao tác
+- 👉 Output: kết quả
+- 👏 Perform: thực hiện, thực thi
+- 🏃 Process: xử lý
+- 🔌 Processor: bộ xử lý
+- Pulse: xung, xung điện
+
 ### 16/3/2022
 
 ```js
