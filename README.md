@@ -1,3 +1,31 @@
+### 21/3/2022
+
+- Gpsmart: login in with admin account
+
+```js
+👌 ~ context Context {
+  meta: {},
+  isAuth: true,
+  isTokenExpired: false,
+  memberCode: undefined,
+  campaignCode: undefined,
+  collaboratorId: undefined,
+  xPageId: undefined,
+  xPsId: undefined,
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiQURNSU4iLCJfaWQiOiI2MjE4OWMwMTFkN2I2MzAwMWNhNWVmMzUiLCJ1c2VybmFtZSI6IkFkbWluIiwiaWF0IjoxNjQ3ODMwNjU1LCJleHAiOjE2NTA0MjI2NTV9.ryj_-e6pt4uGS53OPliD15X94R9dpM0DeI49NIm8k0w',
+  parseHeader: [Function (anonymous)],
+  modifyMemberCode: [Function (anonymous)],
+  tokenData: {
+    role: 'ADMIN',
+    _id: '62189c011d7b63001ca5ef35',
+    username: 'Admin',
+    iat: 1647830655,
+    exp: 1650422655
+  },
+  _extensionStack: GraphQLExtensionStack { extensions: [] }
+}
+```
+
 ### 18/3/2022
 
 ```js
