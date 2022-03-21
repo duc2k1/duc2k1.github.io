@@ -2,6 +2,16 @@
 
 - Gpsmart: login in with admin account
 
+```json
+{
+  "data": {
+    "loginGlobalCustomerByPhone": {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiR0xPQkFMQ1VTVE9NRVIiLCJfaWQiOiI2MjM3ZjQwNjI4NjBiMDQ2YTAzZDQ4ZjYiLCJ1c2VybmFtZSI6IiIsImlhdCI6MTY0NzgzNTcyNCwiZXhwIjoxNjUwNDI3NzI0fQ.XBd695bKSi-bV4NBEC4EmxMR21Q9SaVGX8GK7FzW1FM"
+    }
+  }
+}
+```
+
 ```js
 👌 ~ context Context {
   meta: {},
