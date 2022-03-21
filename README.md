@@ -2,6 +2,10 @@
 
 - Gpsmart: login in with admin account
 
+- await globalCustomer.updateOne({ $set: { "context.lastLoginAt": new Date() } }); -> ko can save
+
+- ISODate("2022-03-21T04:08:44.039Z")
+
 ```json
 {
   "data": {
