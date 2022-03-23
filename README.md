@@ -1,5 +1,22 @@
 ### 23/3/2022
 
+```js
+async function sendNotificationToCustomer(
+  customerId: string,
+  statusMsg: string
+) {
+  try {
+    const notify = new NotificationBuilder(
+      `Kết quả kết nối tài khoản momo`,
+      statusMsg
+    ).sendTo(NotificationTarget.CUSTOMER, customerId);
+    await InsertNotification([notify.build()]);
+  } catch (err) {
+    logger.error(`Lỗi khi gửi thông báo cho khách hàng`, err);
+  }
+}
+```
+
 ```json
 {
   "editor.inlineSuggest.enabled": true,
