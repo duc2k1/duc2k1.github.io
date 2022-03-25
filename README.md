@@ -1,3 +1,12 @@
+### 25/3/2022
+
+```js
+context.allow("read", "Address"); // All record in Address table can be read
+
+const doc = await addressService.findOne({ _id: id });
+context.allow("read", doc); // Record has id: id can be read
+```
+
 ### 23/3/2022
 
 ```js
