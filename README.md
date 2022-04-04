@@ -4,6 +4,10 @@
     int iMax = int.MaxValue;// 2147483647
     int iMin = int.MinValue;// -2147483648
     int iWhat = iMax + 1;// -2147483648
+
+    decimal deMax = decimal.MaxValue;//  79228162514264337593543950335
+    decimal deMin = decimal.MinValue;// -79228162514264337593543950335
+    decimal deWhat = deMax + 1;// System.OverflowException: 'Value was either too large or too small for a Decimal.'
 ```
 
 - ㊗️ Learn C#
