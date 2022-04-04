@@ -1,5 +1,11 @@
 ### 4/4/2022
 
+```c#
+    int iMax = int.MaxValue;// 2147483647
+    int iMin = int.MinValue;// -2147483648
+    int iWhat = iMax + 1;// -2147483648
+```
+
 - ㊗️ Learn C#
 
 ### 30/3/2022
