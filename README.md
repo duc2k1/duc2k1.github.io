@@ -1,3 +1,8 @@
+### 5/4/2022
+
+- Kinh nghiệm chuyên môn từ 4 tháng trở lên về .Net, Entity Framework, LINQ,
+- Nắm vững kiến thức basic +OOP, .Net core MVC.
+
 ### 4/4/2022
 
 ```c#
