@@ -1,5 +1,8 @@
 ### 5/4/2022
 
+- C# in Visual Studio Code: cw + tab -> System.Console.WriteLine
+- C# in Visual Studio: cw + tab -> Console.WriteLine
+
 - Kinh nghiệm chuyên môn từ 4 tháng trở lên về .Net, Entity Framework, LINQ,
 - Nắm vững kiến thức basic +OOP, .Net core MVC.
 
