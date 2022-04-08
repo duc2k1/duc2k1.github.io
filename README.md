@@ -2,9 +2,9 @@
 
 - Dear Ms.Wilson
 - I hope this email finds you well
-- With reference to our previous meeting. I would like to send you the quotation of our fingerprint dorr locks
+- With reference to our previous meeting. I would like to send you the quotation of our fingerprint door locks
 - The prices of all models are stated in the detailed quotation attached below
-- With reference to our previous meeting. I would like to send you the quotation of our fingerprint door lokcs
+- With reference to our previous meeting. I would like to send you the quotation of our fingerprint door locks
 - The prices of all models are stated in the detaild quotation attached below
 - For further information, please contact me via email or at 0326861356
 - I'm looking goward to hearing from you
