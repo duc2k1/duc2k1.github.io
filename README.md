@@ -1,3 +1,14 @@
+### 8/4/2022
+- Personal details
+- Carrer Objective
+- Education and Qualifications
+- Work Experience
+- Interests
+- Achievements
+- Skills
+- References
+- ✍️ Ngay cuoi cung di lam o MCOM
+
 ### 5/4/2022
 
 - C# in Visual Studio Code: cw + tab -> System.Console.WriteLine
