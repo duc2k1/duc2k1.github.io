@@ -16,6 +16,7 @@
 - object: kieu co so - moi doi tuong deu ke thua tu object
 
 ```c#
+int.Parse("") -> Unhandled exception. System.FormatException: Input string was not in a correct format.
 string? username = null;
 float a = 1.1f;
 decimal b = 1.1m;
