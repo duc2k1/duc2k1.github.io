@@ -1,8 +1,10 @@
 ### 9/4/2022
+
 ```c#
-string?
-float a = 1.1f
+string? username = null;
+float a = 1.1f;
 ```
+
 ### 8/4/2022
 
 - Dear Ms.Wilson
