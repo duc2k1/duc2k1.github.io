@@ -1,8 +1,28 @@
 ### 9/4/2022
 
+- int: co dau, 32 bit
+- sbyte: co dau, 8 bit
+- byte: ko dau, 8 bit
+- short: co dau, 16 bit
+- ushort: ko dau, 16 bit
+- long: co dau, 64 bit
+- ulong: ko dau, 64 bit
+- float: so thuc cham dong, 32 bit, ex: 1.1f
+- double: so thuc cham dong, 64 bit
+- decimal: so thuc cham dong, 128 bit, ex: 1.1m
+- char: 1 ky tu, 16 bit
+- bool: true/false
+- string: chuoi
+- object: kieu co so - moi doi tuong deu ke thua tu object
+
 ```c#
 string? username = null;
 float a = 1.1f;
+decimal b = 1.1m;
+```
+
+```c#
+
 ```
 
 ### 8/4/2022
