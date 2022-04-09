@@ -1,5 +1,14 @@
 ### 9/4/2022
 
+```
+string? username = Console.ReadLine();
+int? age = int.TryParse(Console.ReadLine(), out int result) ? result : (int?)null;
+
+Username:
+Age:
+Info user: ,
+```
+
 - int: co dau, 32 bit
 - sbyte: co dau, 8 bit
 - byte: ko dau, 8 bit
