@@ -1,3 +1,19 @@
+### 17/4/2022
+
+- when are you planning to revise the schedule?
+- Hi, jorge. How's preparation coming along for the new sculpture exhibit?
+- Well, we're a little bit behind acctually... the Museum of Plastic Arts is loaning us several sculptures, but the shipment's been delayed.
+- Oh, no. Is there any way I can help/
+- Well... the rest of the sculptures should be here this afternoon, and this the list of things that still need ti get done
+- Hmmm.... how about you finish setting up the final pieces, and I'll upload photographs of the completed displays to our Web site
+- That'd be great - thanks.
+- Where does the conversation most like take place?
+- At a museum
+- What problem does the man mention
+- A shipment is late
+- What will the woman most likely do next
+- Upload some images
+
 ### 9/4/2022
 
 ```
