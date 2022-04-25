@@ -1,3 +1,7 @@
+### 25/4/2022
+
+- Chính thức được nếm mùi đời - Officially taste life
+
 ### 17/4/2022
 
 - when are you planning to revise the schedule?
