@@ -1,1 +1,1 @@
-4/9/2022
+- Nếu mình bị đuổi việc -> die
